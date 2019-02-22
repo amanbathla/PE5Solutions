@@ -17,6 +17,9 @@ import java.util.List;
 
 public class MainTest {
 
+
+    //Main test function to sort the list of given students
+
     public List<Student> sortStudentList(List<Student> list){
 
         Collections.sort(list,new StudentSorter());

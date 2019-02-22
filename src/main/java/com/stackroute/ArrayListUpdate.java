@@ -12,6 +12,8 @@ public class ArrayListUpdate {
 
 
 
+    //Function to update Map list Element
+
     public List<String> updateAndDeleteArray(List<String> inputList,String elementToReplace,String updatedValue){
 
         List<String> Outputlist = new ArrayList<String>(inputList);

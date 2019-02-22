@@ -5,6 +5,8 @@ import java.util.Comparator;
 public class StudentSorter implements Comparator {
 
 
+    // Comaprator function to compare two Student Objects
+
     @Override
     public int compare(Object o, Object t1) {
         if (((Student) (o)).getAge() > ((Student) (t1)).getAge()) {

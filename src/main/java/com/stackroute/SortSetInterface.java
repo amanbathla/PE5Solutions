@@ -14,6 +14,7 @@ import java.util.*;
 public class SortSetInterface {
 
 
+   // Function to sort the set interface and converted to the Array list as well
 
     public Set<String> sortSetInterface(Set<String> set){
 

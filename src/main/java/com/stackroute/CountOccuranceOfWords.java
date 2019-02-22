@@ -15,6 +15,7 @@ public class CountOccuranceOfWords {
 
 
 
+   //Function to check occurance of words
 
     public Map<String,Integer> checkOccuranceOfWords(String str){
 

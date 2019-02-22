@@ -24,6 +24,8 @@ import java.util.ArrayList;
 public class ModifyMap {
 
 
+    //Function to modify the map interfacae and sewap key values
+
     public  Map<String,String> modifyMap(Map<String,String> inputMap){
 
         Map<String,String>  map = inputMap;

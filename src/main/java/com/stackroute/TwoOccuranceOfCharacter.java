@@ -13,6 +13,8 @@ import java.util.Map;
 public class TwoOccuranceOfCharacter {
 
 
+    // Function to check occurance of words
+
     public Map<String,Boolean> checkOccuranceOfWords(String[] arr){
 
 
